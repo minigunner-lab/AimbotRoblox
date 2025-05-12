@@ -1,0 +1,2 @@
+# AimbotRoblox
+AimScript
